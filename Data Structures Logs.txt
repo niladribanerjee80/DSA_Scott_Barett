@@ -1,0 +1,33 @@
+Data Structures Logs
+---------------------
+
+SLL
+
+a. Teaching materials
+- File : Topic_1_SLL_artifacts.ods >> ready
+- Ref : Topic_1_SLL.ipynb  		   >> ready
+
+b. classroom exercises
+- need to prepare the file 
+: Topic_1_SLL_classroom_exercises.ipynb >> Pending
+
+c. assignment materials
+- need to update the pending leetcodes into >> Pending
+: Topic_1_SLL_assignments.ipynb 
+
+---------------------
+
+DLL
+
+a. Teaching materials
+- File : Topic_2_DLL_artifacts.ods | Pending
+- Ref : Topic_2_DLL.ipynb 
+
+b. classroom exercises
+- need to prepare the file >> Pending
+: Topic_2_DLL_classroom_exercises.ipynb
+
+c. assignment materials
+- File : Topic_2_DLL_assignments.ipynb
+
+---------------------
